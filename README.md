@@ -1,1 +1,1 @@
-<p></p> This Repo exits the sql query</p>
+<p></p> This Repo exits the sql command</p>
